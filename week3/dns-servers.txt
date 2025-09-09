@@ -1,0 +1,2 @@
+HOST       PORT  STATUS
+10.0.5.22  53    OPEN
